@@ -9,3 +9,4 @@ RAM - 256MB
 
 Extra Requirements:
 pygame must be installed for this to work.
+run 'main.py' in the Chess folder to run the game.
