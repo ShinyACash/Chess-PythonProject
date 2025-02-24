@@ -2,7 +2,7 @@
 School Investigatory Project CS-083
 
 
-System Requirements (Minimum):
+System Requirements (Recommended):
 CPU - Intel i3 4th gen
 GPU - 64MB
 RAM - 256MB 
